@@ -1,4 +1,4 @@
-# email-spam-classifier
+# SMS_Spam_Classifier
 
 Overview
 This repository contains a machine learning model for classifying SMS messages as spam or ham (not spam). The model is built using Python and leverages various text processing and classification techniques to accurately classify SMS messages.
